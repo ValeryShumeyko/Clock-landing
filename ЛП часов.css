@@ -1,0 +1,1649 @@
+@font-face {
+    font-family: "Post No Bills Jaffna";
+    src: url("PostNoBillsJaffna-Medium.ttf");
+    font-weight: normal;
+    font-style: normal;
+}
+body {
+  background: #000000;
+}
+#top-line {
+  position: absolute;
+  width: 1920px;
+  height: 44px;
+  left: 0px;
+  top: 0px;
+  margin: 0px;
+}
+#eva_phone-outline {
+  position: absolute;
+  width: 16px;
+  height: 16px;
+  left: 405px;
+  top: 14px;
+}
+#phone {
+  position: absolute;
+  width: 355px;
+  height: 16px;
+  left: 436px;
+  top: 14px;
+
+  font-family: 'PT Sans';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 16px;
+/* identical to box height */
+  color: #969696;
+}
+#ic_sharp-log-in {
+  position: absolute;
+  width: 14px;
+  height: 14px;
+  left: 1384px;
+  top: 15px;
+}
+#log-in {
+  position: absolute;
+  width: 115px;
+  height: 16px;
+  left: 1408px;
+  top: 14px;
+    
+  font-family: 'PT Sans';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 16px;
+    /* identical to box height */
+  text-align: right;
+    /* gray */
+  color: #969696;
+}
+#second-line {
+    position: absolute;
+    width: 1920px;
+    height: 80px;
+    left: 0px;
+    top: 44px;
+    background: #0F0F0F;
+    filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+    margin: 0px;
+}
+ul {
+    margin:            0px;
+    list-style-type:   none;
+    padding:           0px;
+}
+ul li {
+    display:           inline;
+    padding:           0px;
+}
+#porten {
+    position: absolute;
+    width: 104px;
+    height: 49px;
+    left: 405px;
+    top: 59px;
+
+    font-family: "Post No Bills Jaffna";
+    font-style: normal;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 54px;
+
+    color: #FFFFFF;
+}
+#rectangle5 {
+    position: absolute;
+    width: 136px;
+    height: 80px;
+    left: 978px;
+    top: 44px;
+    padding: 0px;
+
+    background: #1F1F1F;
+}
+#liked {
+    position: absolute;
+    width: 96px;
+    height: 18px;
+    left: 998px;
+    top: 75px;
+
+    font-family: 'PT Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 18px;
+    text-transform: uppercase;
+
+    color: #FFFFFF;
+}
+#privateOffice {
+/* личный кабинет */
+    position: absolute;
+    width: 150px;
+    height: 18px;
+    left: 1134px;
+    top: 75px;
+    
+    font-family: 'PT Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 18px;
+    text-transform: uppercase;
+/* gray */
+    color: #969696;
+}
+#settings {
+    /* настройки */
+    position: absolute;
+    width: 78px;
+    height: 18px;
+    left: 1293px;
+    top: 75px;
+
+    font-family: 'PT Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 18px;
+    text-transform: uppercase;
+/* gray */
+    color: #969696;
+}
+#bx_bx-cart {
+    position: absolute;
+    width: 22px;
+    height: 22px;
+    left: 1431px;
+    top: 73px;
+}
+#gridicons_search {
+    position: absolute;
+    width: 22px;
+    height: 22px;
+    left: 1493px;
+    top: 73px;
+}
+#Rectangle3 {
+position: absolute;
+width: 1920px;
+height: 810px;
+left: 0px;
+top: 124px;
+
+background: linear-gradient(0deg, rgba(15, 15, 15, 0.5), rgba(15, 15, 15, 0.5)), url(.jpg);
+}
+#Rectangle6 {
+box-sizing: border-box;
+
+position: absolute;
+width: 320px;
+height: 320px;
+left: 800px;
+top: 284px;
+
+border: 4px solid #FFFFFF;
+}
+#PORTEN {
+position: absolute;
+width: 185px;
+height: 86px;
+left: 870px;
+top: 367px;
+
+font-family: 'Post No Bills Jaffna';
+font-style: normal;
+font-weight: 700;
+font-size: 64px;
+line-height: 96px;
+text-align: center;
+padding: 0px;
+margin: 0px;
+
+color: #FFFFFF;
+}
+#SaintPetersburg {
+position: absolute;
+width: 180px;
+height: 44px;
+left: 869px;
+top: 466px;
+
+font-family: 'PT Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 22px;
+line-height: 28px;
+text-align: center;
+text-transform: uppercase;
+
+color: #FFFFFF;
+}
+#line1 {
+position: absolute;
+width: 179px;
+height: 0px;
+left: 870px;
+top: 459px;
+
+border: 2px solid #FFFFFF;
+}
+#lorem {
+position: absolute;
+width: 730px;
+height: 96px;
+left: 595px;
+top: 684px;
+
+font-family: 'PT Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 150%;
+/* or 24px */
+
+text-align: center;
+text-transform: uppercase;
+
+color: #FFFFFF;
+}
+#Rectangle8 {
+box-sizing: border-box;
+
+position: absolute;
+width: 880px;
+height: 730px;
+left: 1040px;
+top: 934px;
+
+background: linear-gradient(0deg, rgba(15, 15, 15, 0.5), rgba(15, 15, 15, 0.5)), url(.jpg), #000000;
+}
+
+#new_collection {
+/* Новая коллекция */
+position: absolute;
+width: 376px;
+height: 39px;
+left: 1292px;
+top: 1418px;
+
+font-family: 'Playfair Display';
+font-style: normal;
+font-weight: 700;
+font-size: 36px;
+line-height: 48px;
+text-align: center;
+text-transform: uppercase;
+padding: 0px;
+margin: 0px;
+
+/* white */
+color: #FFFFFF;
+}
+#line21 {
+position: absolute;
+width: 120px;
+height: 0px;
+left: 1421px;
+top: 1487px;
+
+/* white */
+border: 1px solid #FFFFFF;
+}
+#frame2 {
+box-sizing: border-box;
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 12px 28px;
+gap: 10px;
+
+position: absolute;
+width: 148px;
+height: 52px;
+left: 1411px;
+top: 1517px;
+
+/* white */
+border: 1px solid #FFFFFF;
+}
+#catalog {
+/* Каталог */
+width: 82px;
+height: 23px;
+
+font-family: 'PT Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 23px;
+text-align: center;
+letter-spacing: 0.1em;
+text-transform: uppercase;
+
+/* white */
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+}
+#rectangle7 {
+    box-sizing: border-box;
+    position: absolute;
+    width: 1040px;
+    height: 730px;
+    left: 0px;
+    top: 934px;
+    
+    background: #000000;
+}
+#season2020_21 {
+    /* СЕЗОН 2020/21 */
+    position: absolute;
+    width: 376px;
+    height: 39px;
+    left: 332px;
+    top: 1027px;
+    
+    font-family: 'Playfair Display';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 48px;
+    text-align: center;
+    text-transform: uppercase;
+    padding: 0px;
+    margin: 0px;
+    
+    /* white */
+    color: #FFFFFF;
+}
+#line22 {
+    position: absolute;
+    width: 120px;
+    height: 0px;
+    left: 460px;
+    top: 1116px;
+    
+    /* white */
+    border: 1px solid #FFFFFF;
+}
+#rectangle9 {
+    position: absolute;
+    width: 260px;
+    height: 325px;
+    left: 80px;
+    top: 1166px;
+    
+    background: #191B1C;
+}
+#louis1 {
+    /* Louis XVI ATHOS */
+    position: absolute;
+    width: 140px;
+    height: 24px;
+    left: 80px;
+    top: 1516px;
+    
+    font-family: 'Playfair Display';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 24px;
+    /* identical to box height */
+    
+    /* white */
+    color: #FFFFFF;
+}
+#price {
+    /* 165 000 руб. */
+    position: absolute;
+    width: 92px;
+    height: 21px;
+    left: 80px;
+    top: 1550px;
+    
+    font-family: 'Playfair Display';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 21px;
+    
+    /* light-gray */
+    color: #D0D0D0;
+}
+#clock1 {
+    /* 62050 1 */
+    position: absolute;
+    width: 215px;
+    height: 214px;
+    left: 103px;
+    top: 1221px;
+    
+    background: url(62050.png);
+}
+    
+#rectangle92 {
+    position: absolute;
+    width: 260px;
+    height: 325px;
+    left: 390px;
+    top: 1166px;
+        
+    background: #191B1C;
+}
+#louis12 {
+    /* Louis XVI ATHOS */
+    position: absolute;
+    width: 140px;
+    height: 24px;
+    left: 390px;
+    top: 1516px;
+        
+    font-family: 'Playfair Display';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 24px;
+    /* identical to box height */
+        
+    /* white */
+    color: #FFFFFF;
+}
+#price2 {
+    /* 165 000 руб. */
+    position: absolute;
+    width: 92px;
+    height: 21px;
+    left: 390px;
+    top: 1550px;
+        
+    font-family: 'Playfair Display';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 21px;
+        
+    /* light-gray */
+    color: #D0D0D0;
+}
+#clock2 {
+    /* 62050 1 */
+    position: absolute;
+    width: 215px;
+    height: 214px;
+    left: 413px;
+    top: 1221px;
+        
+    background: url(62050.png);
+}
+#rectangle93 {
+    position: absolute;
+    width: 260px;
+    height: 325px;
+    left: 700px;
+    top: 1166px;
+            
+    background: #191B1C;
+}
+#louis13 {
+    /* Louis XVI ATHOS */
+    position: absolute;
+    width: 140px;
+    height: 24px;
+    left: 700px;
+    top: 1516px;
+            
+    font-family: 'Playfair Display';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 24px;
+    /* identical to box height */
+            
+    /* white */
+    color: #FFFFFF;
+}
+#price3 {
+    /* 165 000 руб. */
+    position: absolute;
+    width: 92px;
+    height: 21px;
+    left: 700px;
+    top: 1550px;
+            
+    font-family: 'Playfair Display';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 21px;
+            
+    /* light-gray */
+    color: #D0D0D0;
+}
+#clock3 {
+    /* 62050 1 */
+    position: absolute;
+    width: 215px;
+    height: 214px;
+    left: 723px;
+    top: 1221px;
+            
+    background: url(62050.png);
+}
+
+    #rectangle94 {
+    position: absolute;
+    width: 880px;
+    height: 600px;
+    left: 6px;
+    top: 1664px;
+    
+    background: linear-gradient(0deg, rgba(15, 15, 15, 0.5), rgba(15, 15, 15, 0.5)), url(.jpg), #000000;
+    }
+    #rectangle82 {
+    /* Rectangle 8 */
+    position: absolute;
+    width: 1040px;
+    height: 600px;
+    left: 886px;
+    top: 1664px;
+    
+    background: #000000;
+    }
+    #collection2018 {
+    /* коллекция 2018 */
+    position: absolute;
+    width: 376px;
+    height: 39px;
+    left: 1218px;
+    top: 1764px;
+    
+    font-family: 'Playfair Display';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 36px;
+    line-height: 48px;
+    text-align: center;
+    text-transform: uppercase;
+    padding: 0px;
+    margin: 0px;
+    
+    /* white */
+    color: #FFFFFF;
+    }
+    #line23 {
+    /* Line 2 */
+    position: absolute;
+    width: 120px;
+    height: 0px;
+    left: 1346px;
+    top: 1843px;
+    
+    /* white */
+    border: 1px solid #FFFFFF;
+    }
+    #frame22 {
+    /* Frame 2 */
+    box-sizing: border-box;
+    
+    /* Auto layout */
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding: 12px 28px;
+    gap: 10px;
+    
+    position: absolute;
+    width: 341px;
+    height: 52px;
+    left: 1251px;
+    top: 2117px;
+    
+    /* white */
+    border: 1px solid #FFFFFF;
+    }
+    #see_collection {
+    /* посмотреть коллекцию */
+    width: 278px;
+    height: 23px;
+    
+    font-family: 'PT Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 23px;
+    text-align: center;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+   
+    
+    /* white */
+    color: #FFFFFF;
+    
+    
+    /* Inside auto layout */
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+    }
+    #lorem2 {
+    position: absolute;
+    width: 471px;
+    height: 173px;
+    left: 1171px;
+    top: 1883px;
+    
+    font-family: 'PT Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 150%;
+    /* or 21px */
+    text-align: center;
+    
+    /* white */
+    color: #FFFFFF;
+    }
+#rectangle10 {
+position: absolute;
+width: 1920px;
+height: 1289px;
+left: 0px;
+top: 2264px;
+
+background: #000000;
+}
+#new_goods {
+position: absolute;
+width: 540px;
+height: 48px;
+left: 690px;
+top: 2384px;
+
+font-family: 'Playfair Display';
+font-style: normal;
+font-weight: 700;
+font-size: 36px;
+line-height: 48px;
+padding: 0px;
+margin: 0px;
+/* identical to box height */
+
+text-align: center;
+text-transform: uppercase;
+
+/* white */
+color: #FFFFFF;
+}
+#line25 {
+position: absolute;
+width: 120px;
+height: 0px;
+left: 900px;
+top: 2472px;
+
+/* white */
+border: 1px solid #FFFFFF;
+}
+
+
+#rectangle41 {
+    position: absolute;
+    width: 260px;
+    height: 325px;
+    left: 405px;
+    top: 2553px;
+    
+    background: #191B1C;
+}
+#louis41 {
+    /* Louis XVI ATHOS */
+    position: absolute;
+    width: 140px;
+    height: 24px;
+    left: 405px;
+    top: 2903px;
+    
+    font-family: 'Playfair Display';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 24px;
+    /* identical to box height */
+    
+    /* white */
+    color: #FFFFFF;
+}
+#price41 {
+    /* 165 000 руб. */
+    position: absolute;
+    width: 92px;
+    height: 21px;
+    left: 405px;
+    top: 2937px;
+    
+    font-family: 'Playfair Display';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 21px;
+    
+    /* light-gray */
+    color: #D0D0D0;
+}
+#clock41 {
+    /* 62050 1 */
+    position: absolute;
+    width: 215px;
+    height: 214px;
+    left: 428px;
+    top: 2608px;
+    
+    background: url(62050.png);
+}
+#rectangle51 {
+    position: absolute;
+    width: 260px;
+    height: 325px;
+    left: 688px;
+    top: 2553px;
+    
+    background: #191B1C;
+}
+#louis51 {
+    /* Louis XVI ATHOS */
+    position: absolute;
+    width: 140px;
+    height: 24px;
+    left: 688px;
+    top: 2903px;
+    
+    font-family: 'Playfair Display';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 24px;
+    /* identical to box height */
+    
+    /* white */
+    color: #FFFFFF;
+}
+#price51 {
+    /* 165 000 руб. */
+    position: absolute;
+    width: 92px;
+    height: 21px;
+    left: 688px;
+    top: 2937px;
+    
+    font-family: 'Playfair Display';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 21px;
+    
+    /* light-gray */
+    color: #D0D0D0;
+}
+#clock51 {
+    /* 62050 1 */
+    position: absolute;
+    width: 215px;
+    height: 214px;
+    left: 711px;
+    top: 2608px;
+    
+    background: url(62050.png);
+}
+#rectangle61 {
+    position: absolute;
+    width: 260px;
+    height: 325px;
+    left: 971px;
+    top: 2553px;
+    
+    background: #191B1C;
+}
+#louis61 {
+    /* Louis XVI ATHOS */
+    position: absolute;
+    width: 140px;
+    height: 24px;
+    left: 971px;
+    top: 2903px;
+    
+    font-family: 'Playfair Display';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 24px;
+    /* identical to box height */
+    
+    /* white */
+    color: #FFFFFF;
+}
+#price61 {
+    /* 165 000 руб. */
+    position: absolute;
+    width: 92px;
+    height: 21px;
+    left: 971px;
+    top: 2937px;
+    
+    font-family: 'Playfair Display';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 21px;
+    
+    /* light-gray */
+    color: #D0D0D0;
+}
+#clock61 {
+    /* 62050 1 */
+    position: absolute;
+    width: 215px;
+    height: 214px;
+    left: 994px;
+    top: 2608px;
+    
+    background: url(62050.png);
+}
+#rectangle71 {
+    position: absolute;
+    width: 260px;
+    height: 325px;
+    left: 1254px;
+    top: 2553px;
+    
+    background: #191B1C;
+}
+#louis71 {
+    /* Louis XVI ATHOS */
+    position: absolute;
+    width: 140px;
+    height: 24px;
+    left: 1254px;
+    top: 2903px;
+    
+    font-family: 'Playfair Display';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 24px;
+    /* identical to box height */
+    
+    /* white */
+    color: #FFFFFF;
+}
+#price71 {
+    /* 165 000 руб. */
+    position: absolute;
+    width: 92px;
+    height: 21px;
+    left: 1254px;
+    top: 2937px;
+    
+    font-family: 'Playfair Display';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 21px;
+    
+    /* light-gray */
+    color: #D0D0D0;
+}
+#clock71 {
+    /* 62050 1 */
+    position: absolute;
+    width: 215px;
+    height: 214px;
+    left: 1277px;
+    top: 2608px;
+    
+    background: url(62050.png);
+}
+#rectangle81 {
+    position: absolute;
+    width: 260px;
+    height: 325px;
+    left: 405px;
+    top: 2998px;
+    
+    background: #191B1C;
+}
+#louis81 {
+    /* Louis XVI ATHOS */
+    position: absolute;
+    width: 140px;
+    height: 24px;
+    left: 405px;
+    top: 3348px;
+    
+    font-family: 'Playfair Display';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 24px;
+    /* identical to box height */
+    
+    /* white */
+    color: #FFFFFF;
+}
+#price81 {
+    /* 165 000 руб. */
+    position: absolute;
+    width: 92px;
+    height: 21px;
+    left: 405px;
+    top: 3382px;
+    
+    font-family: 'Playfair Display';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 21px;
+    
+    /* light-gray */
+    color: #D0D0D0;
+}
+#clock81 {
+    /* 62050 1 */
+    position: absolute;
+    width: 215px;
+    height: 214px;
+    left: 428px;
+    top: 3053px;
+    
+    background: url(62050.png);
+}
+#rectangle91 {
+    position: absolute;
+    width: 260px;
+    height: 325px;
+    left: 688px;
+    top: 2998px;
+    
+    background: #191B1C;
+}
+#louis91 {
+    /* Louis XVI ATHOS */
+    position: absolute;
+    width: 140px;
+    height: 24px;
+    left: 688px;
+    top: 3348px;
+    
+    font-family: 'Playfair Display';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 24px;
+    /* identical to box height */
+    
+    /* white */
+    color: #FFFFFF;
+}
+#price91 {
+    /* 165 000 руб. */
+    position: absolute;
+    width: 92px;
+    height: 21px;
+    left: 688px;
+    top: 3382px;
+    
+    font-family: 'Playfair Display';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 21px;
+    
+    /* light-gray */
+    color: #D0D0D0;
+}
+#clock91 {
+    /* 62050 1 */
+    position: absolute;
+    width: 215px;
+    height: 214px;
+    left: 711px;
+    top: 3053px;
+    
+    background: url(62050.png);
+}
+#rectangle101 {
+    position: absolute;
+    width: 260px;
+    height: 325px;
+    left: 971px;
+    top: 2998px;
+    
+    background: #191B1C;
+}
+#louis101 {
+    /* Louis XVI ATHOS */
+    position: absolute;
+    width: 140px;
+    height: 24px;
+    left: 971px;
+    top: 3348px;
+    
+    font-family: 'Playfair Display';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 24px;
+    /* identical to box height */
+    
+    /* white */
+    color: #FFFFFF;
+}
+#price101 {
+    /* 165 000 руб. */
+    position: absolute;
+    width: 92px;
+    height: 21px;
+    left: 971px;
+    top: 3382px;
+    
+    font-family: 'Playfair Display';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 21px;
+    
+    /* light-gray */
+    color: #D0D0D0;
+}
+#clock101 {
+    /* 62050 1 */
+    position: absolute;
+    width: 215px;
+    height: 214px;
+    left: 994px;
+    top: 3053px;
+    
+    background: url(62050.png);
+}
+#rectangle111 {
+    position: absolute;
+    width: 260px;
+    height: 325px;
+    left: 1254px;
+    top: 2998px;
+    
+    background: #191B1C;
+}
+#louis111 {
+    /* Louis XVI ATHOS */
+    position: absolute;
+    width: 140px;
+    height: 24px;
+    left: 1254px;
+    top: 3348px;
+    
+    font-family: 'Playfair Display';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 24px;
+    /* identical to box height */
+    
+    /* white */
+    color: #FFFFFF;
+}
+#price111 {
+    /* 165 000 руб. */
+    position: absolute;
+    width: 92px;
+    height: 21px;
+    left: 1254px;
+    top: 3382px;
+    
+    font-family: 'Playfair Display';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 21px;
+    
+    /* light-gray */
+    color: #D0D0D0;
+}
+#clock111 {
+    /* 62050 1 */
+    position: absolute;
+    width: 215px;
+    height: 214px;
+    left: 1277px;
+    top: 3053px;
+    
+    background: url(62050.png);
+}
+#rectangle11 {
+position: absolute;
+width: 1920px;
+height: 362px;
+left: 0px;
+top: 3553px;
+
+background: #0F0F0F;
+}
+#our_brands {
+position: absolute;
+width: 289px;
+height: 48px;
+left: 816px;
+top: 3613px;
+
+font-family: 'Playfair Display';
+font-style: normal;
+font-weight: 700;
+font-size: 36px;
+line-height: 48px;
+padding: 0px;
+margin: 0px;
+/* identical to box height */
+
+text-align: center;
+text-transform: uppercase;
+
+/* white */
+color: #FFFFFF;
+}
+#line34 {
+position: absolute;
+width: 120px;
+height: 0px;
+left: 900px;
+top: 3701px;
+
+/* white */
+border: 1px solid #FFFFFF;
+}
+#brend1 {
+    position: absolute;
+    width: 255px;
+    height: 94px;
+    left: 405px;
+    top: 3741px;
+}
+#brend2 {
+    position: absolute;
+    width: 255px;
+    height: 94px;
+    left: 690px;
+    top: 3741px;
+}
+#brend3 {
+    position: absolute;
+    width: 255px;
+    height: 94px;
+    left: 975px;
+    top: 3741px;
+}
+#brend4 {
+    position: absolute;
+    width: 255px;
+    height: 94px;
+    left: 1260px;
+    top: 3741px;
+}
+#rectangle15 {
+    position: absolute;
+    width: 1920px;
+    height: 400px;
+    left: 0px;
+    top: 3909px;
+    
+    background: linear-gradient(0deg, rgba(15, 15, 15, 0.85), rgba(15, 15, 15, 0.85)), url(.jpg), #C4C4C4;
+}
+#email {
+    /* ваша почта*/
+    position: absolute;
+    width: 71px;
+    height: 21px;
+    left: 1180px;
+    top: 4140px;
+    
+    font-family: 'PT Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 150%;
+   
+    /* identical to box height, or 21px */
+    
+    
+    /* gray */
+    
+    color: #969696;
+}
+#clock98 {
+/* часы */
+
+
+width: 30px;
+height: 21px;
+
+font-family: 'PT Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 150%;
+padding: 10px 20px;
+/* identical to box height, or 21px */
+
+
+/* light-gray */
+color: #D0D0D0;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+}
+#frame3 {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    
+    gap: 10px;
+    
+    position: absolute;
+    width: 70px;
+    height: 41px;
+    left: 786px;
+    top: 4061px;
+    
+    background: #0F0F0F;
+}
+#bracelets {
+/* браслеты */
+width: 58px;
+height: 21px;
+
+font-family: 'PT Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 150%;
+padding: 10px 20px;
+/* identical to box height, or 21px */
+/* light-gray */
+color: #D0D0D0;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+}
+#frame4 {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    
+    gap: 10px;
+    
+    position: absolute;
+    width: 98px;
+    height: 41px;
+    left: 876px;
+    top: 4061px;
+    
+    background: #0F0F0F;
+}
+#belts {
+/* ремни */
+width: 39px;
+height: 21px;
+
+font-family: 'PT Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 150%;
+padding: 10px 20px;
+/* identical to box height, or 21px */
+/* light-gray */
+color: #D0D0D0;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+}
+#frame6 {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    
+    gap: 10px;
+    
+    position: absolute;
+    width: 79px;
+    height: 41px;
+    left: 994px;
+    top: 4061px;
+    
+    background: #0F0F0F;
+}
+#jewelry {
+/* ювелирные изделия */
+width: 124px;
+height: 21px;
+
+font-family: 'PT Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 150%;
+padding: 10px 20px;
+/* identical to box height, or 21px */
+/* light-gray */
+color: #D0D0D0;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+}
+#frame5 {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+   
+    gap: 10px;
+    
+    position: absolute;
+    width: 164px;
+    height: 41px;
+    left: 786px;
+    top: 4122px;
+    
+    background: #0F0F0F;
+}
+#cufflinks {
+/* запонки */
+width: 51px;
+height: 21px;
+
+font-family: 'PT Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 150%;
+padding: 10px 20px;
+/* identical to box height, or 21px */
+/* light-gray */
+color: #D0D0D0;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+}
+#frame7 {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    
+    gap: 10px;
+    
+    position: absolute;
+    width: 91px;
+    height: 41px;
+    left: 970px;
+    top: 4122px;
+    
+    background: #0F0F0F;
+}
+#subscribe {
+/* ПОДПИСАТЬСЯ */
+width: 100px;
+height: 21px;
+
+font-family: 'PT Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 150%;
+padding: 10px 20px;
+/* identical to box height, or 21px */
+letter-spacing: 0.05em;
+/* white */
+color: #FFFFFF;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+}
+#frame8 {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap: 10px;
+    
+    position: absolute;
+    width: 150px;
+    height: 45px;
+    left: 1375px;
+    top: 4141px;
+    
+    background: #0F0F0F;
+}
+#about_shop {
+/* О магазине */
+position: absolute;
+width: 161px;
+height: 32px;
+left: 405px;
+top: 3989px;
+
+font-family: 'Playfair Display';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 32px;
+padding: 0px;
+margin: 0px;
+/* identical to box height */
+text-transform: uppercase;
+
+/* white */
+color: #FFFFFF;
+}
+#categories {
+/* Категории */
+position: absolute;
+width: 142px;
+height: 32px;
+left: 785px;
+top: 3989px;
+
+font-family: 'Playfair Display';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 32px;
+padding: 0px;
+margin: 0px;
+/* identical to box height */
+text-transform: uppercase;
+
+/* white */
+color: #FFFFFF;
+}
+#mailing_list {
+/* РАссылка */
+position: absolute;
+width: 131px;
+height: 32px;
+left: 1165px;
+top: 3989px;
+
+font-family: 'Playfair Display';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 32px;
+padding: 0px;
+margin: 0px;
+/* identical to box height */
+text-transform: uppercase;
+
+/* white */
+color: #FFFFFF;
+}
+#lorem3 {
+    position: absolute;
+    width: 350px;
+    height: 147px;
+    left: 405px;
+    top: 4061px;
+    
+    font-family: 'PT Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 150%;
+    /* or 21px */
+    
+    
+    /* white */
+    
+    color: #FFFFFF;
+}
+#lorem4 {
+    position: absolute;
+    width: 350px;
+    height: 42px;
+    left: 1165px;
+    top: 4061px;
+    
+    font-family: 'PT Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 150%;
+    /* or 21px */
+    
+    
+    /* white */
+    
+    color: #FFFFFF;
+}
+#rectangle16 {
+    position: absolute;
+    width: 210px;
+    height: 45px;
+    left: 1165px;
+    top: 4140px;
+    
+    background: rgba(255, 255, 255, 0.4);
+}
+#rectangle17 {
+    position: absolute;
+    width: 1920px;
+    height: 50px;
+    left: 0px;
+    top: 4307px;
+    
+    background: #0F0F0F;
+}
+#all_rights_reserved {
+/* © 2020 Все права защищены */
+position: absolute;
+width: 155px;
+height: 16px;
+left: 405px;
+top: 4324px;
+
+font-family: 'PT Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 16px;
+padding: 0px;
+margin: 0px;
+/* identical to box height */
+
+/* light-gray */
+color: #D0D0D0;
+}
+#figma {
+/* Сделано Figma.info */
+position: absolute;
+width: 155px;
+height: 16px;
+left: 1360px;
+top: 4324px;
+
+font-family: 'PT Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 12px;
+line-height: 16px;
+padding: 0px;
+margin: 0px;
+/* identical to box height */
+text-align: right;
+text-decoration-line: underline;
+
+/* light-gray */
+color: #D0D0D0;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
