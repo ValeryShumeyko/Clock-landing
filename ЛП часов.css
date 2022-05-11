@@ -1211,7 +1211,7 @@ border: 1px solid #FFFFFF;
 #email {
     /* ваша почта*/
     position: absolute;
-    width: 71px;
+    width: 81px;
     height: 21px;
     left: 1180px;
     top: 4140px;
@@ -1342,7 +1342,7 @@ flex-grow: 0;
 }
 #jewelry {
 /* ювелирные изделия */
-width: 124px;
+width: 134px;
 height: 21px;
 
 font-family: 'PT Sans';
